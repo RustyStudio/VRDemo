@@ -1,0 +1,9 @@
+Welcome to the interaction demo. Please proceed to the elevator behind you.
+
+Elevator is empty. Aborting operation. Please return to the elevator.
+
+Commencing transport. Next stop is
+
+Archery range
+
+Sword hall

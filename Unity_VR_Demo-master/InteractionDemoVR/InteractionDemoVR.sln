@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractionDemoVR.Plugins", "InteractionDemoVR.Plugins.csproj", "{3781A9A2-73E5-2DBA-9A63-C26441696E62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractionDemoVR", "InteractionDemoVR.csproj", "{56F64A01-EB89-D361-A906-BD0A2B4C98E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractionDemoVR.Editor.Plugins", "InteractionDemoVR.Editor.Plugins.csproj", "{13633244-F00F-D40E-68BF-49BE3ADE50EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3781A9A2-73E5-2DBA-9A63-C26441696E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3781A9A2-73E5-2DBA-9A63-C26441696E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3781A9A2-73E5-2DBA-9A63-C26441696E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3781A9A2-73E5-2DBA-9A63-C26441696E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F64A01-EB89-D361-A906-BD0A2B4C98E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F64A01-EB89-D361-A906-BD0A2B4C98E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F64A01-EB89-D361-A906-BD0A2B4C98E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F64A01-EB89-D361-A906-BD0A2B4C98E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13633244-F00F-D40E-68BF-49BE3ADE50EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13633244-F00F-D40E-68BF-49BE3ADE50EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13633244-F00F-D40E-68BF-49BE3ADE50EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13633244-F00F-D40E-68BF-49BE3ADE50EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
